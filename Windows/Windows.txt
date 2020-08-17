@@ -1,0 +1,22 @@
+-------------------------------Description------------------------------
+Instance ID:i-0885cba03f5c6b06e
+
+Public DNS (IPv4):ec2-54-144-134-131.compute-1.amazonaws.com
+
+Instance state:running
+
+IPv4 Public IP:54.144.134.131
+
+Instance type:t2.micro
+
+Private DNS:ip-172-31-62-53.ec2.internal
+
+Private IPs:172.31.62.53
+
+Availability zone:us-east-1e
+
+Launch time:August 17, 2020 at 1:08:04 PM UTC+5:30
+
+AMI ID:Windows_Server-2019-English-Full-Base-2020.08.12 (ami-032c2c4b952586f02)
+
+------------------------------------------------------------------------

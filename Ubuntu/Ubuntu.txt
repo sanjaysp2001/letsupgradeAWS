@@ -1,0 +1,23 @@
+--------------------------Description----------------------------
+
+Instance ID:i-0c227e70379e580e6
+
+Public DNS (IPv4):ec2-54-172-239-76.compute-1.amazonaws.com
+
+IPv4 Public IP:54.172.239.76
+
+Instance state;running
+
+Instance type:t2.micro
+
+Private DNS:ip-172-31-87-205.ec2.internal
+
+Availability zone:us-east-1c
+
+Private IPs:172.31.87.205
+
+Launch time:August 17, 2020 at 11:12:50 AM UTC+5:30 
+
+AMI ID:ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20200810 (ami-0bcc094591f354be2)
+
+-------------------------------------------------------------------
